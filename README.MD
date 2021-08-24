@@ -7,5 +7,6 @@
 - cmdben navigálj oda a mappádhoz
 - töltsd le a projectet abba a mappába
 - `npm i`
+- Editeld tetszésed szerint
 # Project futtatása
 - ments el mindent és használd a `node .` vagy a `node filename.js` parancsot a cmdben
